@@ -35,7 +35,7 @@ $(document).on('ready', function(){
  		// store $(this).attr('href') in a variable
  		var pageToScrollTo = $(this).attr('href');
  		// use that variable in our $.scrollTo() function
- 		$(window).scrollTo(pageToScrollTo, 6000);
+ 		$(window).scrollTo(pageToScrollTo, 5000);
 	});
 
 });

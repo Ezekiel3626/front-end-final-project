@@ -29,6 +29,18 @@
 }
 
 section	{
-	height: 600px;
+	height: 500px;
 	border-bottom: 1px;
+}
+
+h1.carrillo {
+	text-align: center;
+}
+
+nav.nav-wrapper {
+	text-align: center;
+}
+
+div.maxwell {
+	border: 1px black;
 }

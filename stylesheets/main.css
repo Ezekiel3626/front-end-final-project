@@ -11,6 +11,7 @@
 .nav-main li a {
 	display: block;
 	padding: 20px;
+	color: red;
 }
 
 .nav-main li a.is-current {
@@ -35,6 +36,10 @@ section	{
 
 h1.carrillo {
 	text-align: center;
+	font-size: 50px;
+	font-style: Helvetica;
+	color: white;
+	padding: 50px;
 }
 
 nav.nav-wrapper {
@@ -43,4 +48,155 @@ nav.nav-wrapper {
 
 div.maxwell {
 	border: 1px black;
+}
+
+.scrollToTop{
+	width:100px; 
+	height:130px;
+	padding:10px; 
+	text-align:center; 
+	background: whiteSmoke;
+	font-weight: bold;
+	color: #444;
+	text-decoration: none;
+	position:fixed;
+	top:75px;
+	right:40px;
+	display:none;
+}
+
+.scrollToTop:hover{
+	text-decoration:none;
+}
+
+body.unclejohn {
+	background-color: blue;
+	text-align: center;
+}
+
+section.one {
+	text-align: center;
+	color: white;
+}
+
+section.two {
+	text-align: center;
+	color: white;
+}
+
+section.three {
+	text-align: center;
+	color: white;
+}
+
+section.four {
+	text-align: center;
+	color: white;
+}
+
+section.five {
+	text-align: center;
+	color: white;
+}
+
+p.para1 {
+	padding-bottom: 50px;
+	padding-left: 150px;
+	padding-right: 150px;
+	margin-top: 20px;
+}
+
+p.para2 {
+	padding-bottom: 50px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+p.para3 {
+	padding-bottom: 50px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+p.para4 {
+	padding-bottom: 50px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+h2.first {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+h2.second {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+h2.chorus {
+	padding-top: 100px;
+	padding-bottom: 10px;
+}
+
+h2.third {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+p.para5 {
+	padding-bottom: 50px;
+	padding-top: 100px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+div.maxwell {
+	padding-bottom: 50px;
+	font-size: 50px;
+	color: red;
+}
+
+div.judge {
+	padding-bottom: 50px;
+}
+
+img.chavez {
+	border: 10px solid white;
+}
+
+.chavez:hover {
+	cursor: pointer;
+	height: 350px;
+    width: 350px;
+}
+
+img.tennis {
+	border: 10px solid white;
+}
+
+.tennis:hover {
+	cursor: pointer;
+	height: 350px;
+    width: 350px;
+} 
+
+img.frank {
+	border: 10px solid white;
+}
+
+.frank:hover {
+	cursor: pointer;
+	height: 350px;
+    width: 350px;
+}
+
+img.ace {
+	border: 10px solid white;
+}
+
+.ace:hover {
+	cursor: pointer;
+	height: 350px;
+    width: 350px;
 }
